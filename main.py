@@ -1,5 +1,5 @@
 from argparse import ArgumentParser
-from attrdict import AttrDict
+from attr_dict import AttrDict
 
 from experiment import Experiment
 from common import Task, GNN_TYPE, STOP

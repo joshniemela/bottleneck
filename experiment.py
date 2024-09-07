@@ -4,7 +4,7 @@ from torch.optim.lr_scheduler import ReduceLROnPlateau
 
 import numpy as np
 import random
-from attrdict import AttrDict
+from attr_dict import AttrDict
 
 from common import STOP
 from models.graph_model import GraphModel

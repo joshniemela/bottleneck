@@ -1,6 +1,6 @@
 import main
 from common import Task, STOP, GNN_TYPE
-from attrdict import AttrDict
+from attr_dict import AttrDict
 from experiment import Experiment
 import torch
 
